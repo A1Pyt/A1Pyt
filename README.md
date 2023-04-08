@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning  Data Science.
 - 💞️ I’m looking to collaborate on ...
-- 📫 reach me through Mail id ...
+- 📫 reach me through Mail id a1pythonlearner@gmail.com
 
 <!---
 A1Pyt/A1Pyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
